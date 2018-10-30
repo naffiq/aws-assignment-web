@@ -3,9 +3,17 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "aws-appsync": "^1.4.0",
+    "aws-appsync-react": "^1.2.0",
+    "aws-sdk": "^2.344.0",
+    "chart.js": "^2.7.3",
+    "graphql-tag": "^2.10.0",
     "react": "^16.6.0",
+    "react-apollo": "^2.2.4",
+    "react-chartjs": "^1.2.0",
     "react-dom": "^16.6.0",
-    "react-scripts": "2.1.0"
+    "react-scripts": "2.1.0",
+    "victory": "^30.6.0"
   },
   "scripts": {
     "start": "react-scripts start",
